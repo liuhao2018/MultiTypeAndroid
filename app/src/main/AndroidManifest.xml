@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".multitype.MultiTypeActivity" />
-        <activity android:name=".flexbox.FlexBoxActivity"></activity>
+        <activity android:name=".epoxy.EpoxyActivity"></activity>
     </application>
 
 </manifest>
